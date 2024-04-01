@@ -1,5 +1,5 @@
 package object_class;
-// 은행계좌 클래스 (신한은행)
+// 은행계좌 클래스 (신한은행) => " 은행계좌 클래스 멤버변수 설정 변경 "
 public class Account {
 	// 1. 멤버변수 (필드) : 값을 저장할 변수들
 	static final String BANKNAME="신한은행";
